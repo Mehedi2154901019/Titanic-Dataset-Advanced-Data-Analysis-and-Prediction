@@ -1,5 +1,7 @@
 # 🛳️ Titanic Survival Prediction - End-to-End Advanced Data Analysis & Prediction
 
+![titanic](assets/titanic.png)
+
 This project dives deep into the **Titanic Dataset** to uncover hidden insights about the passengers — who survived, why, and how different social, demographic, and ticket-based factors influenced survival chances.
 
 The project walks through **data cleaning, feature engineering, exploratory data analysis (EDA)**, and finally **machine learning modeling** to predict survival probabilities.
@@ -62,50 +64,52 @@ Shows overall survival ratio.
 ### ⚫ Survival by Gender
 Children and women had a higher survival rate compared to men.
 
-![survival_gender](survival_gender.jpg)
+![survival_gender](assets/survival_gender.jpg)
 
 ---
 
 ### ⚫ Deck-wise Survival Rate
 Certain decks had higher chances of survival (upper decks).
 
-![survival_deck](survival_deck.png)
+![Decks](assets/Decks.png)
+
+![survival_deck](assets/survival_deck.png)
 
 ---
 
 ### ⚫ Age vs Survival
 Younger passengers and middle-aged adults survived more than elderly.
 
-![agesurvival](agesurvival.png)
+![agesurvival](assets/agesurvival.png)
 
 ---
 
 ### ⚫ Passenger Class vs Survival
 Higher-class passengers had better survival odds.
 
-![classsurvival](classsurvival.png)
+![classsurvival](assets/classsurvival.png)
 
 ---
 
 ### ⚫ Grouping (Social Context) vs Survival
 Small families had the highest survival rate, while large families struggled.
 
-![groupingsurvival](groupingsurvival.png)
+![groupingsurvival](assets/groupingsurvival.png)
 
 ---
 
 ### ⚫ Title vs Survival
 Masters (young boys) and married women (Mrs) survived most.
 
-![titlesurvival](titlesurvival.png)
+![titlesurvival](assets/titlesurvival.png)
 
 ---
 
 ### ⚫ Fare vs Survival
 Higher fare correlated with higher survival chances — money did matter!
 
-![faresurvival1](faresurvival1.png)
-![faresurvival2](faresurvival2.png)
+![faresurvival1](assets/faresurvival1.png)
+![faresurvival2](assets/faresurvival2.png)
 
 ---
 
@@ -113,7 +117,7 @@ Higher fare correlated with higher survival chances — money did matter!
 
 Three models were trained and compared:  
 
-![comparison](comparison.png)
+![comparison](assets/comparison.png)
 
 Random Forestt Classifier provided **82.68%** accuracy with good balance of precision and recall.  
 

@@ -1,6 +1,6 @@
 # 🛳️ Titanic Survival Prediction - End-to-End Advanced Data Analysis & Prediction
 
-![sinking](assets/sinking.png)
+![sinking](assets/sinking.jpg)
 
 This project dives deep into the **Titanic Dataset** to uncover hidden insights about the passengers — who survived, why, and how different social, demographic, and ticket-based factors influenced survival chances.
 

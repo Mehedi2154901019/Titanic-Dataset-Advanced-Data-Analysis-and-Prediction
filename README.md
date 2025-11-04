@@ -1,12 +1,12 @@
 # 🛳️ Titanic Survival Prediction - End-to-End Advanced Data Analysis & Prediction
 
-![sinking](assets/sinking.jpg)
-
 This project dives deep into the **Titanic Dataset** to uncover hidden insights about the passengers — who survived, why, and how different social, demographic, and ticket-based factors influenced survival chances.
 
 The project walks through **data cleaning, feature engineering, exploratory data analysis (EDA)**, and finally **machine learning modeling** to predict survival probabilities.
 
 ---
+
+![sinking](assets/sinking.jpg)
 
 ## 📁 Dataset
 The dataset used is the **Titanic-Dataset.csv**, which contains passenger details such as:

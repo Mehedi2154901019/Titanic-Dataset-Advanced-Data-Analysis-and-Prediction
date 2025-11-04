@@ -55,72 +55,71 @@ Below are visual insights obtained from the data exploration:
 ### ⚫ Survival Distribution
 Shows overall survival ratio.
   
-![Survival Pie](example.jpg)
+![Survival Pie](assets/survival_pie.png)
 
 ---
 
 ### ⚫ Survival by Gender
 Children and women had a higher survival rate compared to men.
 
-![Survival by Gender](example.jpg)
+![Survival by Gender](survival_gender.jpg)
 
 ---
 
 ### ⚫ Deck-wise Survival Rate
 Certain decks had higher chances of survival (upper decks).
 
-![Survival by Deck](example.jpg)
+![Survival by Deck](survival_deck.png)
 
 ---
 
 ### ⚫ Age vs Survival
 Younger passengers and middle-aged adults survived more than elderly.
 
-![Age vs Survival](example.jpg)
+![Age vs Survival](agesurvival.png)
 
 ---
 
 ### ⚫ Passenger Class vs Survival
 Higher-class passengers had better survival odds.
 
-![Class vs Survival](example.jpg)
+![Class vs Survival](classsurvival.png)
 
 ---
 
 ### ⚫ Grouping (Social Context) vs Survival
 Small families had the highest survival rate, while large families struggled.
 
-![Grouping vs Survival](example.jpg)
+![Grouping vs Survival](groupingsurvival.png)
 
 ---
 
 ### ⚫ Title vs Survival
 Masters (young boys) and married women (Mrs) survived most.
 
-![Title vs Survival](example.jpg)
+![Title vs Survival](titlesurvival.png)
 
 ---
 
 ### ⚫ Fare vs Survival
 Higher fare correlated with higher survival chances — money did matter!
 
-![Fare vs Survival](example.jpg)
+![Fare vs Survival](faresurvival1.png)
+![Fare vs Survival](faresurvival2.png)
 
 ---
 
 ## 🧠 Machine Learning Model
 
-Three models were trained and compared:
+Three models were trained and compared:  
 
-| Model | Accuracy | Precision | Recall | F1 Score |
-|--------|-----------|------------|----------|-----------|
-| Logistic Regression | ~ | ~ | ~ | ~ |
-| Random Forest | **82.68%** | Best balance | Good recall | Stable |
-| XGBoost | ~ | ~ | ~ | ~ |
+![Model Comparison](comparison.png)
+
+Random Forestt Classifier provided **82.68%** accuracy with good balance of precision and recall.  
+
 
 > Random Forest Classifier was chosen as the **final model** due to the best overall performance.
 
-![Model Comparison](example.jpg)
 
 ---
 
@@ -151,27 +150,11 @@ This workflow demonstrates how combining **domain understanding**, **data cleani
 
 ---
 
-## 🖼️ Suggested Image Files
-You can replace `example.jpg` with your actual visualization filenames:
-| Section | Image Filename Suggestion |
-|----------|---------------------------|
-| Survival Pie Chart | `survival_pie.jpg` |
-| Survival by Gender | `gender_survival.jpg` |
-| Deck Survival Rate | `deck_survival.jpg` |
-| Age vs Survival | `age_survival.jpg` |
-| Class vs Survival | `class_survival.jpg` |
-| Grouping vs Survival | `grouping_survival.jpg` |
-| Title vs Survival | `title_survival.jpg` |
-| Fare vs Survival | `fare_survival.jpg` |
-| Model Comparison | `model_comparison.jpg` |
-
----
-
 ## 🧑‍💻 Author
-**Your Name**  
-Data Analyst | Machine Learning Enthusiast  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+**Md Mehedi Hassan**  
+Data Scientist | Researcher
+📧 mehedi3128.mhd@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/md-mehedi-hassan-65818b243) | [GitHub](https://github.com/Mehedi2154901019)
 
 ---
 

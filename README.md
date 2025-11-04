@@ -62,50 +62,50 @@ Shows overall survival ratio.
 ### ⚫ Survival by Gender
 Children and women had a higher survival rate compared to men.
 
-![Survival by Gender](survival_gender.jpg)
+![survival_gender](survival_gender.jpg)
 
 ---
 
 ### ⚫ Deck-wise Survival Rate
 Certain decks had higher chances of survival (upper decks).
 
-![Survival by Deck](survival_deck.png)
+![survival_deck](survival_deck.png)
 
 ---
 
 ### ⚫ Age vs Survival
 Younger passengers and middle-aged adults survived more than elderly.
 
-![Age vs Survival](agesurvival.png)
+![agesurvival](agesurvival.png)
 
 ---
 
 ### ⚫ Passenger Class vs Survival
 Higher-class passengers had better survival odds.
 
-![Class vs Survival](classsurvival.png)
+![classsurvival](classsurvival.png)
 
 ---
 
 ### ⚫ Grouping (Social Context) vs Survival
 Small families had the highest survival rate, while large families struggled.
 
-![Grouping vs Survival](groupingsurvival.png)
+![groupingsurvival](groupingsurvival.png)
 
 ---
 
 ### ⚫ Title vs Survival
 Masters (young boys) and married women (Mrs) survived most.
 
-![Title vs Survival](titlesurvival.png)
+![titlesurvival](titlesurvival.png)
 
 ---
 
 ### ⚫ Fare vs Survival
 Higher fare correlated with higher survival chances — money did matter!
 
-![Fare vs Survival](faresurvival1.png)
-![Fare vs Survival](faresurvival2.png)
+![faresurvival1](faresurvival1.png)
+![faresurvival2](faresurvival2.png)
 
 ---
 
@@ -113,7 +113,7 @@ Higher fare correlated with higher survival chances — money did matter!
 
 Three models were trained and compared:  
 
-![Model Comparison](comparison.png)
+![comparison](comparison.png)
 
 Random Forestt Classifier provided **82.68%** accuracy with good balance of precision and recall.  
 

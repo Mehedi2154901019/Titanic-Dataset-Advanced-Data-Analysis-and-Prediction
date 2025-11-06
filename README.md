@@ -119,10 +119,10 @@ Three models were trained and compared:
 
 ![comparison](assets/comparison.png)
 
-Random Forestt Classifier provided **82.68%** accuracy with good balance of precision and recall.  
+XGBoost provided **82.68%** accuracy with good balance of precision and recall.  
 
 
-> Random Forest Classifier was chosen as the **final model** due to the best overall performance.
+> XGBoost was chosen as the **final model** due to the best overall performance.
 
 
 ---
